@@ -36,3 +36,44 @@
     transform: rotate(360deg);
   }
 }
+
+.Trollface{
+  width: 80px;
+  margin-right: 50px;
+}
+
+header{
+  background-color: blueviolet;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  font-weight: 700;
+  color: black;
+}
+
+.meme {
+  position: relative;
+  width: 90%;
+  margin: 50px;
+}
+
+.meme > img {
+  width: 400px;
+}
+
+.meme > h2 {
+  position: absolute;
+  width: 400px;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.meme > .bottom{
+  bottom: 0;
+}
+
+.meme > .top{
+  top: 0;
+}
