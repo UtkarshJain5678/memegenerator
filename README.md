@@ -1,3 +1,6 @@
+# MemeGenerator
+Meme Generator in just 1.5 hours during a hackathon, demonstrating rapid prototyping and development skills. This interactive web application allows users to overlay custom top and bottom text onto a diverse selection of randomly generated meme images. Developed using HTML, CSS, and JavaScript, it showcases proficiency in core web technologies and responsive design.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
